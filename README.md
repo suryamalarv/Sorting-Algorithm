@@ -91,7 +91,7 @@ ii)
 
 
 
-## Output:
+## Output
 ```
 i)
 ![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/e935609a-37f0-495f-8e25-9bf30a54431d)
