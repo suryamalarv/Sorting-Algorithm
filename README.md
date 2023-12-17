@@ -49,6 +49,9 @@ print(selection_sort(arr))
 ii)	#Insertion Sort
 
 ```
+
+
+```
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: SURYAMALARV
@@ -70,8 +73,7 @@ print(insertion_sort(arr))
     
 
 
-
-
+```
 
 ```
 
@@ -84,12 +86,14 @@ print(insertion_sort(arr))
 
 
 ## Output:
+```
 i)
-![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/77c6693a-681a-485b-913a-388fa4120268)
-
+![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/e935609a-37f0-495f-8e25-9bf30a54431d)
 
 ii)
-![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/29037974-3fd5-4f36-a111-6f5d79d28c41)
+![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/d548d6bd-29b6-4643-bf2f-7d6c65b12a42)
+
+
 
 
 
