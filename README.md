@@ -40,6 +40,9 @@ arr=eval(input())
 print(selection_sort(arr))
     
 ```
+i)
+![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/c3f95a15-92d7-48b9-83dd-b8cb8815b86e)
+
 
 
 
@@ -74,6 +77,9 @@ print(insertion_sort(arr))
 
 
 ```
+ii)
+![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/2cfb6b06-14c5-49af-bab9-055977485a6c)
+
 
 ```
 
