@@ -81,7 +81,7 @@ ii)
 ![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/2cfb6b06-14c5-49af-bab9-055977485a6c)
 
 
-`
+
 
 
     
@@ -92,7 +92,7 @@ ii)
 
 
 ## Output
-```
+
 i)
 ![image](https://github.com/suryamalarv/Sorting-Algorithm/assets/145742486/e935609a-37f0-495f-8e25-9bf30a54431d)
 
